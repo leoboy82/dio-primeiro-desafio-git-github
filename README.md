@@ -1,2 +1,5 @@
-# dio-primeiro-desafio-git-github
-Projeto Git/GitHub
+# Primeiros passos com o GIT & GITHUB
+
+## Instalando e Configurando o git no seu 🖥️ 💻.
+
+### 
