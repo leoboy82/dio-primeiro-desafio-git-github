@@ -1,6 +1,7 @@
 # Instalando e Configurando o git no seu 🖥️ 💻.
 
-### No mundo da programação, o git é uma ferramenta extremamente útil para o controle de versões do seu código. Ele permite que você rastreie as alterações que você faz no seu código, compartilhe suas alterações com outros desenvolvedores e faça backup de seu código. Neste tutorial, mostraremos como instalar e configurar o git no seu computador.
+### 
+No mundo da programação, o git é uma ferramenta extremamente útil para o controle de versões do seu código. Ele permite que você rastreie as alterações que você faz no seu código, compartilhe suas alterações com outros desenvolvedores e faça backup de seu código. Neste tutorial, mostraremos como instalar e configurar o git no seu computador.
 
 Primeiro, você precisará baixar e instalar o git em seu computador. Se você está utilizando o sistema operacional Windows, pode obter o git a partir do site oficial do git (http://git-scm.com/download/win). Uma vez que o git esteja instalado em seu computador, você precisará configurá-lo para funcionar com seu nome e endereço de e-mail. Você pode fazer isso executando os seguintes comandos no terminal:
 
@@ -23,7 +24,8 @@ Após adicionar os arquivos que deseja rastrear ao repositório, você precisar�
 
 ## Se você está iniciando seus estudos com o Git, é importante evitar os seguintes erros comuns:
 
-### Não aprender os conceitos básicos do Git.
+###
+Não aprender os conceitos básicos do Git.
 Muitos desenvolvedores iniciantes querem aprender a usar o Git sem antes compreender os conceitos fundamentais por trás dele. Isso pode levar a confusão e a frustração mais tarde, quando enfrentarem problemas mais complexos. É importante ter um bom entendimento dos conceitos do Git, como commits, branches e merge antes de começar a usá-lo.
 
 Usar o Git de forma errada.
